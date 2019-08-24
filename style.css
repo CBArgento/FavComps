@@ -30,8 +30,8 @@ body {
     color: white;
   }
 
-  .iframe {
-      
-      padding: 20px;
+  .jumbotron {
+      padding: 70px;
       padding-left: 335px;
+      background: lightgray;
   }
