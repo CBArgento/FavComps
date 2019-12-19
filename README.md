@@ -1,6 +1,6 @@
 # FavComps
 This site helps you find current job openings in the Money Transfer industry.
-![FavComps](FavComps.PNG)
+![FavComps](mysites/favcomps/FavComps.PNG)
 
 
 
